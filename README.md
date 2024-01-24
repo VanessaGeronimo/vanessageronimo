@@ -6,5 +6,5 @@
 - 😄 Pronouns: Ela/dela
 
 
-![Snake animation](vanessageronimo)
+![snake gif](https://github.com/VanessaGeronimo/vanessageronimo/blob/output/github-contribution-grid-snake.svg)
 
