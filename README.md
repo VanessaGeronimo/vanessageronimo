@@ -4,7 +4,9 @@
   </samp>
  
 
-
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 
 
@@ -15,4 +17,5 @@
 
 
 ![snake gif](https://github.com/VanessaGeronimo/vanessageronimo/blob/output/github-contribution-grid-snake-dark.svg)
+
 
